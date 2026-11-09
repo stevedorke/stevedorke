@@ -33,6 +33,8 @@ flowchart LR
 
 The source is private, but I'm happy to walk through the code and architecture in an interview.
 
+**Open source:** contributor to [react-component-caching](https://github.com/rookLab/react-component-caching) (388★), component-level caching for faster React server-side rendering.
+
 ---
 
 ### 🛠 Stack
